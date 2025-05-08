@@ -1,0 +1,15 @@
+../Core/Src/main.c:183:6:CreateBackground	5
+../Core/Src/main.c:208:6:init_random	1
+../Core/Src/main.c:215:5:get_random	1
+../Core/Src/main.c:219:6:restart_game	13
+../Core/Src/main.c:299:6:display_menu	6
+../Core/Src/main.c:350:5:main	403
+../Core/Src/main.c:1959:6:SystemClock_Config	3
+../Core/Src/main.c:2007:13:MX_ADC1_Init	3
+../Core/Src/main.c:2059:13:MX_SPI1_Init	2
+../Core/Src/main.c:2097:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:2130:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:2161:13:MX_DMA_Init	1
+../Core/Src/main.c:2182:13:MX_GPIO_Init	1
+../Core/Src/main.c:2253:6:HAL_UART_RxCpltCallback	1
+../Core/Src/main.c:2264:6:Error_Handler	1
